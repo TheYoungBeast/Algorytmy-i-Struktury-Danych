@@ -4,7 +4,6 @@
 #include <vector>
 #include <algorithm>
 
-#include <iostream>
 int main()
 {
 	std::ifstream Input("input.txt");
